@@ -1,5 +1,16 @@
 # Retailer Version 2.1.0
+
 A free, feature rich retail point of sale and management software.
+
+Features include:
+- Retail POS
+- Quicksale
+- Inventory tracking and management
+- Puchases monitoring
+- Customer monitoring
+- Employee management
+- Custom reports
+- Filters
 
 ## Getting Started
 
