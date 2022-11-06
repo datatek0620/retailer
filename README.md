@@ -2,7 +2,7 @@
 
 A free, feature rich retail point of sale and management software.
 
-Features include:
+## Features
 - Retail POS
 - Quicksale
 - Inventory tracking and management
